@@ -1,3 +1,4 @@
+![logo](https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/git_banner1.png)
 <h1 align="center">Hi 👋, I'm Sakshi Tanwar</h1>
 <h3 align="center">I'm a data science enthusiast who is passionate about using data to solve complex problems. I'm currently learning Python, statistics, and machine learning, nlp,cnn ,deep learning and I'm excited to explore different data science applications. .</h3>
 
