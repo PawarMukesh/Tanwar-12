@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/Tanwar-12/Tanwar-12/blob/main/download.jpg" width="800" height="300">
+  <img src="https://github.com/Tanwar-12/Tanwar-12/blob/main/images.jpg" width="800" height="300">
 </div>
 
 <h1 align="center">Hi 👋, I'm Sakshi Tanwar</h1>
