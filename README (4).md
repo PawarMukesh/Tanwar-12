@@ -1,4 +1,8 @@
-![logo](https://github.com/Tanwar-12/Tanwar-12/blob/main/download.jpg)
+
+<div align="center">
+  <img src="https://github.com/Tanwar-12/Tanwar-12/blob/main/download.jpg" width="800" height="300">
+</div>
+
 <h1 align="center">Hi 👋, I'm Sakshi Tanwar</h1>
 <h3 align="center">I'm a data science enthusiast who is passionate about using data to solve complex problems. I'm currently learning Python, statistics, and machine learning, nlp,cnn ,deep learning and I'm excited to explore different data science applications. .</h3>
 
