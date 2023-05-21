@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Tanwar-12/Tanwar-12/blob/main/download%20(1).jpg" width="800" height="300">
+  <img src="https://github.com/Tanwar-12/Tanwar-12/blob/main/Modern%20Minimalist%20Simple%20Technology%20Banner.png" width="800" height="300">
 </div>
 
 <h1 align="center">Hi 👋, I'm Sakshi Tanwar</h1>
