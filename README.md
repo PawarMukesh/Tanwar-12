@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tanwarsakshi1717157@gmail.com**
 
-- ⚡ Fun fact **You can have data without information,but you cannot have information without data.**
+- ⚡ Fun fact ** Data isn’t information; information isn’t knowledge; knowledge isn’t wisdom.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
