@@ -1,5 +1,6 @@
 # 💫 About Me: Hii, I am Sakshi Tanwar
-🔭 Data Scientist Intern At Rubixe<br>        💼 Open for Freelance work in data science field.</li><br>        🤔 Areas of Interest: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.</li><br>        💬 Ask me about Python,Machine Learning</li><br>                ⚡ Fun fact:You can have data without information,but you cannot have information without data .
+🔭 Data Scientist Intern At Rubixe<br>       💼 Open for Freelance work in data science field.</li><br>      🤔 Areas of Interest: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.</li><br>       💬 Ask me about Python,Machine Learning</li><br> 📫 How to reach me tanwarsakshi1717157@gmail.com             
+⚡ Fun fact:You can have data without information,but you cannot have information without data .
 
 
 ## 🌐 Socials:
