@@ -26,7 +26,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Tanwar-12&theme=flat&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Data science is not just about data; it's about asking the right questions and finding meaningful answers
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Tanwar-12&limit=5&theme=flat&combine_all_yearly_contributions=true)
