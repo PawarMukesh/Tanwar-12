@@ -2,8 +2,10 @@
 <h1 align="center">  <img src="https://github.com/Tanwar-12/Tanwar-12/blob/main/emoji-hello.gif" 
          alt="Waving hand animated gif"
          height="75"
-         width="75" /> I'm Sakshi Tanwar</h1>  
+         width="75" /> I'm Sakshi Tanwar</h1> 
+         
  # 💫 About Me:
+ 
 🔭 Data Scientist Intern At Rubixe<br><br>💼 Open for Freelance work in data science field.<br><br>🤔 Areas of Interest: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.<br><br>💬 Ask me about Python,Machine Learning<br><br>📫 How to reach me tanwarsakshi1717157@gmail.com<br><br>⚡ Fun fact:You can have data without information,but you cannot have information without data .
 
 
