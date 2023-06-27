@@ -1,7 +1,11 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" width="800" height="300">
 </div>
-<h1 align="center">Hi 👋, I'm Sakshi Tanwar</h1>
+<h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />
+ I'm Sakshi Tanwar</h1>
 <h3 align="center">I'm a data science enthusiast who is passionate about using data to solve complex problems. I'm currently learning Python, statistics, and machine learning, nlp,cnn ,deep learning and I'm excited to explore different data science applications. .</h3>
 <img align="right" alt="coding" width="300" src="https://github.com/Tanwar-12/Tanwar-12/blob/main/hacking.gif?raw=true">
 
