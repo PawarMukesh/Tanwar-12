@@ -1,8 +1,7 @@
 
-<h1 align="center">  <img src="https://github.com/Tanwar-12/Tanwar-12/blob/main/emoji-hello.gif" 
-         alt="Waving hand animated gif"
-         height="75"
-         width="75" /> I'm Sakshi Tanwar</h1> 
+<h1 align="center">  
+<b>Hey, Everyone! 
+         I'm Sakshi Tanwar</b></h1> 
          
  # 💫 About Me:
  
