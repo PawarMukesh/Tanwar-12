@@ -6,7 +6,7 @@
          height="45"
          width="45" />
  I'm Sakshi Tanwar</h1>
-<h3 align="center">I'm a data science enthusiast who is passionate about using data to solve complex problems. I'm currently learning Python, statistics, and machine learning, nlp,cnn ,deep learning and I'm excited to explore different data science applications. .</h3>
+<h3 align="center">I'm a data science enthusiast who is passionate about using data to solve complex problems.  .</h3>
 <img align="right" alt="coding" width="300" src="https://github.com/Tanwar-12/Tanwar-12/blob/main/hacking.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanwar-12&label=Profile%20views&color=0e75b6&style=flat" alt="tanwar-12" /> </p>
