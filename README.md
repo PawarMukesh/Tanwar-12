@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **tanwarsakshi1717157@gmail.com**
 
-- ⚡ Fun fact **You should celebrate yourself**
+- ⚡ Fun fact **Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
