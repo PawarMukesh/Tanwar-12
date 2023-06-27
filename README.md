@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **tanwarsakshi1717157@gmail.com**
 
-- ⚡ Fun fact **I am a fitness freak**
+- ⚡ Fun fact **You should celebrate yourself**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
