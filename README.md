@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **tanwarsakshi1717157@gmail.com**
 
-- ⚡ Fun fact **You can have data without information,but you cannot have information without data.**
+- ⚡ Fun fact **I am a fitness freak**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
