@@ -1,30 +1,5 @@
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Stylish&size=40&duration=4000&pause=750&center=true&vCenter=true&multiline=true&width=850&height=200&lines=%3C++Hi+%F0%9F%91%8B+I+am+Supriyo+Ain%2C+;I+am+a+Competitive+Programmer%2C;and+also+a+Data+Science+Enthusiast+%2F%3E" alt="Typing SVG" /></a>
-</div>
 
-###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ainsupriyo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/supriyo.ain.7/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/ainsupriyo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Stylish&size=30&duration=2500&pause=500&vCenter=true&repeat=false&width=250&lines=%3C+About+Me+%2F%3E" alt="Typing SVG" /></a>
-
-###
-
-<img align="right" height="230" src="https://miro.medium.com/v2/resize:fit:1400/1*Urc28sbnORGOW5oyohQ06g.gif"  />
-
-###
 
 - 📚 I'm currently learning **Data Science and CP Techniques**
 
