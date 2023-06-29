@@ -26,6 +26,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tanwar-12&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
