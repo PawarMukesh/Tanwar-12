@@ -6,22 +6,16 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Akshay Dongare</h1>
+         width="45"</h1>Sakshi Tanwar
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akshay-Dongare&label=Views&color=blue&style=plastic&style=for-the-badge" alt="AkshayDongare" /> </p>
 
 # 💫 About Me :
 - 🌱 I’m an undergraduate student currently learning more about Deep Learning.
 - 💬 Ask me about AI/ML or any tech-related stuff.
-- 📫 How to reach me: https://linktr.ee/akshaydongare
+- 📫 How to reach me: tanwarsakshi1717157@gmail.com
 
-[![resume](https://img.shields.io/badge/Resume-0000FF?style=for-the-badge&logo=akash&logoColor=white)](https://drive.google.com/file/d/1D2RaRCqsocUs442ZE0UZDxGSbXUUQzcM/view?usp=sharing)
 
-## 🌐 Socials
-[![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/akshaydongare)
-[![pub package](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-dongare-a2bb6b201/)   [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshayd02@gmail.com) 
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akshay_d02) 
-[![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18038150/akshay-dongare)
 
 
 ## 💻 Tech Stack & Tools
@@ -36,10 +30,7 @@ You can click the Preview link to take a look at your changes.
  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-## 📈 Activity Graph
-<p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=Akshay-Dongare&theme=minimal"/>
-</p>
+
 
 ## 💳 Github Profile Summary Card
 <p align="center">
