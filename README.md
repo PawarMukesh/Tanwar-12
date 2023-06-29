@@ -8,7 +8,8 @@
 🔭 Data Scientist Intern At Rubixe<br><br>💼 Open for Freelance work in data science field.<br><br>🤔 Areas of Interest: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.<br><br>💬 Ask me about Python,Machine Learning<br><br>📫 How to reach me tanwarsakshi1717157@gmail.com<br><br>⚡ Fun fact:You can have data without information,but you cannot have information without data .
 
 
-## 🌐 Socials:
+## 🌐 Socials: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dst8313) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-t-69a241250) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/S2tech) 
 
 # 💻 Tech Stack:
