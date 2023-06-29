@@ -7,9 +7,9 @@
 
 - 💡 I am interested in learning new Algorithms
 
-- 👨‍💻 Currently working on a ChatBot named **TOB-E**
+-
 
-- 📫 How to reach me **ainsupriyo@gmail.com**
+
 
 ###
 
