@@ -1,7 +1,6 @@
 
 <h1 align="center">  
-<b>Hii, Guys! 
-         I'm Sakshi Tanwar</b></h1> 
+<b></b>  😎🚀𝙝𝙞👋 𝙞 𝙖𝙢 𝙖 ✨ Computer Science Engineer 𝙖𝙣𝙙 Data Scientist✨</b></h1> 
          
  # 💫 About Me:
       
