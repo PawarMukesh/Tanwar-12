@@ -1,6 +1,6 @@
 
 <h1 align="center">  
-<b>Hey, Everyone! 
+<b>Hii, Guys! 
          I'm Sakshi Tanwar</b></h1> 
          
  # 💫 About Me:
