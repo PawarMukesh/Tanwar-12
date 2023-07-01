@@ -2,6 +2,9 @@
 <h2 align="center"> 
           
 <b> 😎🚀𝙝𝙞👋 𝙞 𝙖𝙢 𝙖 💥Computer Science Engineer 𝙖𝙣𝙙 Data Scientist💥</b></h2> 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanwar-12&label=Profile%20views&color=0e75b6&style=flat" alt="tanwar-12" /> </p>
+
          
  # 💫 About Me:
       
@@ -37,6 +40,8 @@
 [![](https://visitcount.itsvg.in/api?id=Tanwar-12&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 
 
   
