@@ -1,3 +1,4 @@
+<img align="centre" alt="coding" width="200" src="https://github.com/Tanwar-12/Tanwar-12/blob/main/8a2e4c79a1b9c983dc6bf8d6cbada43a.gif">
 
 
 <h1 align="center">
@@ -8,7 +9,6 @@
           
 <b> 😎🚀𝙝𝙞👋 Numbers come alive, stories unfold - the passion of a data scientist👩‍💻</b></h2> 
 
-<img align="right" alt="coding" width="200" src="https://github.com/Tanwar-12/Tanwar-12/blob/main/8a2e4c79a1b9c983dc6bf8d6cbada43a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanwar-12&label=Profile%20views&color=0e75b6&style=flat" alt="tanwar-12" /> </p>
 <b><h1> 💫 About Me:</h1></b>
