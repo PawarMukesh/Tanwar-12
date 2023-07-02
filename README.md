@@ -1,8 +1,8 @@
-<div align="center">
+
 <img src="https://i.pinimg.com/originals/8a/2e/4c/8a2e4c79a1b9c983dc6bf8d6cbada43a.gif" width="800" height="200">
 
-
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; SAKSHI  TANWAR &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; SAKSHI  TANWAR &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
 
 
@@ -12,11 +12,7 @@
 <b> 😎🚀𝙝𝙞👋 Numbers come alive, stories unfold - the passion of a data scientist👩‍💻</b></h2> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanwar-12&label=Profile%20views&color=0e75b6&style=flat" alt="tanwar-12" /> </p>
-
-         
  # 💫 About Me:
-      
- 
 🔭 Data Scientist Intern At Rubixe<br><br>💼 Open for Freelance work in data science field.<br><br>🤔 Areas of Interest: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.<br><br>💬 Ask me about Python,Machine Learning<br><br>📫 How to reach me tanwarsakshi1717157@gmail.com<br><br>⚡ Fun fact:You can have data without information,but you cannot have information without data .
 
 
