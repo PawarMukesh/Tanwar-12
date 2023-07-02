@@ -45,7 +45,7 @@
 
 
   
-<b>❤️ Gratitude is the heart's way of saying 'thank you.' Thank you for taking the time to visit my GitHub!❤️</b>
+<b>❤️Your visit to my GitHub profile is a celebration of the fusion between data science and my love for India. Together, let's embrace the power of data to create positive change!❤️</b>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
