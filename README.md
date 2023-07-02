@@ -45,7 +45,7 @@
 
 
   
-<b>❤️ Thank you for visiting my Github Profile ❤️</b>
+<b>❤️ Gratitude is the heart's way of saying 'thank you.' Thank you for taking the time to visit my GitHub!❤️</b>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
