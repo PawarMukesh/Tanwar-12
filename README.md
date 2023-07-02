@@ -1,5 +1,5 @@
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWDtbfqCMIfI9ek8VUvwxgBlzVVyJ6xlsHdw&usqp=CAU" width="900" height="200">
+
 
 <h1 align=center>✨ SAKSHI TANWAR ✨</h1>
 <h2 align="center"> 
