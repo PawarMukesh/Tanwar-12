@@ -7,7 +7,7 @@
 
 <h2 align="center"> 
           
-<b> hi👋 Numbers come alive, stories unfold - the passion of a data scientist</b></h2> 
+<b> hi👋 Numbers come alive, stories unfold - the passion of a data scientist </b></h2> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanwar-12&label=Profile%20views&color=0e75b6&style=flat" alt="tanwar-12" /> </p>
